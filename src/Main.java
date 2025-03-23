@@ -29,7 +29,7 @@ class SinglyLinkedList {
     public void insertAtEnd(int data) {
         Node newNode = new Node(data);
         if (head == null) {
-            head = newNode;-
+            head = newNode;
             return;
         }
         Node current = head;
