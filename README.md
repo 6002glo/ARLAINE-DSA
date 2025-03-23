@@ -1,5 +1,4 @@
 
-
 ## 1. Overlooking Constant Factors
 
 Big O notation ignores constant factors. [cite: 1]
